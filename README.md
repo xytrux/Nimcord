@@ -6,7 +6,7 @@ A Discord client written in Nim
 
 ## Installation
 > [!NOTE]  
-> This project is still heavily under development. Some features may or may not work and some menu's may be ugly.
+> This project is still heavily under development. Some features may or may not work.
 
 > [!CAUTION]
 > This client has Vencord installed. Use at your own discretion.
