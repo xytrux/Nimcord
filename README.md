@@ -17,10 +17,11 @@ To compile this project, simply clone the repo and run this command:
 ## Todo List
 
 - [x] Better menu styling for Vencord
+- [ ] Icons
 - [ ] Theme support
 - [ ] ArRPC support
 - [ ] Cloud feature fix
 - [ ] Notifications
-- [ ] Icons
+- [ ] QuickCSS fix
 
 Feel free to contribute by tackling any of the tasks above.
