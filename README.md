@@ -2,7 +2,7 @@
 
 A Discord client written in Nim
 
-![](\assets\screenshots\Screenshot 2024-09-11 203221.png)
+![](https://github.com/xytrux/Nimcord/blob/main/assets/screenshots/Screenshot%202024-09-11%20203221.png?raw=true)
 
 ## Installation
 > [!NOTE]  
