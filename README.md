@@ -11,12 +11,8 @@ A Discord client written in Nim
 > [!CAUTION]
 > This client has Vencord installed. Use at your own discretion.
 
-First, install `webview` by Neroist, not the one in the regular nimble packages:
-
-`nimble install https://github.com/neroist/webview`
-
 To compile this project, simply clone the repo and run this command:
-`nim c -r main.exe
+`nimble build`
 
 ## Todo List
 
