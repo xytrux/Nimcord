@@ -4,7 +4,7 @@ import webview
 let w = newWebView(debug=true)
 
 w.title = "Nimcord"
-w.size = (800, 600)
+w.size = (1280, 720)
 
 w.init(cstring(readFile("Vencord/vencord.js")))
 
