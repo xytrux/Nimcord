@@ -2,6 +2,7 @@
 
 A Discord client written in Nim
 
+![](assets\screenshots\Screenshot 2024-09-11 203221.png)
 
 ## Installation
 > [!NOTE]  
