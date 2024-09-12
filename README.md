@@ -12,8 +12,9 @@ A Discord client written in Nim
 > This client has Vencord installed. Use at your own discretion.
 
 To compile this project, simply clone the repo and run this command:
-`nimble build`
-
+```
+nimble build
+```
 ## Todo List
 
 - [x] Better menu styling for Vencord (Thanks bung)
