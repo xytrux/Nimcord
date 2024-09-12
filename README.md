@@ -16,7 +16,7 @@ To compile this project, simply clone the repo and run this command:
 
 ## Todo List
 
-- [ ] Better menu styling for Vencord
+- [x] Better menu styling for Vencord
 - [ ] Theme support
 - [ ] ArRPC support
 - [ ] Cloud feature fix
