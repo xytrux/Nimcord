@@ -24,5 +24,6 @@ nimble build
 - [ ] Cloud feature fix
 - [ ] Notifications
 - [ ] QuickCSS fix
+- [ ] Cloud support
 
 Feel free to contribute by tackling any of the tasks above.
