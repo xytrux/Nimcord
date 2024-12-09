@@ -8,22 +8,14 @@ A Discord client written in Nim
 > [!NOTE]  
 > This project is still heavily under development. Some features may or may not work.
 
-> [!CAUTION]
-> This client has Vencord installed. Use at your own discretion.
-
 To compile this project, simply clone the repo and run this command:
 ```
 nimble build
 ```
 ## Todo List
 
-- [x] Better menu styling for Vencord (Thanks bung)
 - [ ] Icons
-- [ ] Theme support
-- [ ] ArRPC support
-- [ ] Cloud feature fix
+- [ ] RPC support
 - [ ] Notifications
-- [ ] QuickCSS fix
-- [ ] Cloud support
 
 Feel free to contribute by tackling any of the tasks above.
